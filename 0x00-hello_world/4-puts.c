@@ -1,10 +1,10 @@
 #include <stdio.h>
 
- /**
-  * main - A program that prints a line with puts function
-  * Description: This prints Programming is a building
-  * Return: 0 (Success)
-  */
+/**
+ * main - A program that prints a line with puts function
+ * Description: A program that prints a line with puts function
+ * Return: 0 (Success)
+ */
 
 int main(void)
 {
